@@ -1,0 +1,10 @@
+C:\Workspace\ASPdotNET\HUTECHRecruitment\bin\Debug\netcoreapp2.0\HUTECHRecruitment.deps.json
+C:\Workspace\ASPdotNET\HUTECHRecruitment\bin\Debug\netcoreapp2.0\HUTECHRecruitment.runtimeconfig.json
+C:\Workspace\ASPdotNET\HUTECHRecruitment\bin\Debug\netcoreapp2.0\HUTECHRecruitment.runtimeconfig.dev.json
+C:\Workspace\ASPdotNET\HUTECHRecruitment\bin\Debug\netcoreapp2.0\HUTECHRecruitment.dll
+C:\Workspace\ASPdotNET\HUTECHRecruitment\bin\Debug\netcoreapp2.0\HUTECHRecruitment.pdb
+C:\Workspace\ASPdotNET\HUTECHRecruitment\obj\Debug\netcoreapp2.0\HUTECHRecruitment.csproj.CoreCompileInputs.cache
+C:\Workspace\ASPdotNET\HUTECHRecruitment\obj\Debug\netcoreapp2.0\HUTECHRecruitment.AssemblyInfoInputs.cache
+C:\Workspace\ASPdotNET\HUTECHRecruitment\obj\Debug\netcoreapp2.0\HUTECHRecruitment.AssemblyInfo.cs
+C:\Workspace\ASPdotNET\HUTECHRecruitment\obj\Debug\netcoreapp2.0\HUTECHRecruitment.dll
+C:\Workspace\ASPdotNET\HUTECHRecruitment\obj\Debug\netcoreapp2.0\HUTECHRecruitment.pdb
